@@ -1,4 +1,5 @@
 print("Hello world!")
-print(1+1)
+print("How are you ?")
 
-print("pink")
+print("green")
+
